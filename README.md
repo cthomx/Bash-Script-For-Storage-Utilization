@@ -13,15 +13,15 @@ The purpose of this program is to determine if your disk's memory utilization is
 ## Example Execution
 
 ### Part 1: Startup
-<img src="./Static/001_WelcomeScreen.png" alt="drawing" width="400"/>
+<img src="./Static/001_WelcomeScreen.png" alt="drawing" width="550"/>
 
 ### Part 2: User Input and System Check
-<img src="./Static/002_SystemCheck.png" alt="drawing" width="400"/>
+<img src="./Static/002_SystemCheck.png" alt="drawing" width="550"/>
 
 ### Part 3: Disk Utilization Below Threshold
-<img src="./Static/003_EnoughStorage.png" alt="drawing" width="400"/>
+<img src="./Static/003_EnoughStorage.png" alt="drawing" width="550"/>
 
 ### Part 4: Disk Utilization Above Threshold
-<img src="./Static/004_NotEnoughStorage.png" alt="drawing" width="400"/>
+<img src="./Static/004_NotEnoughStorage.png" alt="drawing" width="550"/>
 
   
