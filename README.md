@@ -4,7 +4,7 @@
 This program is designed to demonstrate the following skills:
 * Utilize bash's bc to perform floating point division
 * Take user input and store the variable within a bash script
-* If statment
+* If statement
 * Utilize sed or awk to perform manipulation
 
 ## Program Purpose
